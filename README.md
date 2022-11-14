@@ -7,15 +7,6 @@
 * Descrição do subconjunto da linguagem Pascal no documento
   [pascal0-reference.pdf](./pascal0-reference.pdf)
 
-## Sugestões
+## Como correr
 
-* Coloquem o código fonte num subdiretório  `src`.
-* Usem o `make`/`cabal` para automatizar a compilação de C ou Haskell
-  respetivamente.
-* Dispõe de um conjunto de programas de exemplo para testes no
-  subdiretório `examples`; podem ainda acrescentar mais.
-
-Bom trabalho!
-
-----
-Pedro Vasconcelos, 2022.
+* No diretorio presente cabal v1-build e de seguida cabal v1-run < examples/fib.pas0(programaExemplo) 
